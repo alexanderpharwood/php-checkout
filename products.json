@@ -1,0 +1,28 @@
+{
+	"ZA": {
+		"price": 200,
+		"offers": [
+			{
+				"required_quantity": 4,
+				"price": 700
+			}
+		]
+	},
+	"YB": {
+		"price": 1200,
+		"offers": []
+	},
+	"FC": {
+		"price": 125,
+		"offers": [
+			{
+				"required_quantity": 6,
+				"price": 600
+			}
+		]
+	},
+	"GD": {
+		"price": 15,
+		"offers": []
+	}
+}
